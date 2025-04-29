@@ -1,0 +1,3 @@
+s/Apples/Apple/
+2 s/yellow/yellow/; s/Bananas/Banana/
+3 s/apples/apple/; s/bananas/banana/

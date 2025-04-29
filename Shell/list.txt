@@ -1,0 +1,8 @@
+101  mobile   50000
+102  laptop   60000
+102  laptop   60000
+103   toys      300
+104   books    1200
+104   books    1200
+105  charger  400
+106  printer   3000
